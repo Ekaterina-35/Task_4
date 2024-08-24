@@ -1,4 +1,4 @@
-# Проект 'Новостной сайт'
+# Принципы работы JavaScript
 
 Данная страница выполнена как домашнее задание на курсе **[Fullstack Разработчик](https://new.skillfactory.ru/web-developer-fullstack")**
 
