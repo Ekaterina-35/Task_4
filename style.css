@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+    background-color: #F5EEE1;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.divlist {
+    text-align: center;
+}
+
+
+.list {
+    display: inline-block;
+    font-size: 1.5rem;
+    padding: 0;
+}
+
+li {
+    margin: 1rem;
+    text-align: left;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+}
+
+li a:hover {
+    color: rgb(233, 161, 79);
+}
+
+footer {
+    padding-top: 3rem;
+    color: black;
+    text-align: center;
+   
+}
+
+.copyright a {
+    color: black;
+    text-decoration: none;
+}
+
+.copyright a:hover {
+    color: rgb(233, 161, 79);
+}
